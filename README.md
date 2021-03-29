@@ -2,7 +2,14 @@
 fund great ideas on the blockchain. 
 
 
-demo website soon ina few hours
+
+youtube demo 
+https://youtu.be/HnfxttKtyUI
+
+Dapp here: https://ideasgogo.herokuapp.com/
+
+
+
 
 to run react app
 download files 
@@ -17,10 +24,6 @@ switch to the ropsten network
 enjoy!
 
 
-youtube demo 
-https://youtu.be/HnfxttKtyUI
-
-Dapp here: https://ideasgogo.herokuapp.com/
 
 
 
