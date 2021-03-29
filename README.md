@@ -2,7 +2,7 @@
 fund great ideas on the blockchain. 
 
 
-demo website soon. 
+demo website soon ina few hours
 
 to run react app
 download files 
