@@ -1,5 +1,14 @@
 # ideagogo
 fund great ideas on the blockchain. 
+all ideas are a NFT 
+
+this allows us to create ideas that can be owned by more thin one person   
+
+the owner and funders will be able to own an idea.
+
+idea creators  get compensated  for their work.
+funders  get compensated for their  contribution.
+
 
 
 
