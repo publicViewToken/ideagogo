@@ -2,7 +2,7 @@
 fund great ideas on the blockchain. 
 all ideas are a NFT 
 
-this allows us to create ideas that can be owned by more thin one person   
+this allows us to create ideas that can be owned by more then one person   
 
 the owner and funders will be able to own an idea.
 
