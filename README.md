@@ -12,6 +12,9 @@ funders  get compensated for their  contribution.
 
 
 
+
+
+
 youtube demo 
 https://youtu.be/HnfxttKtyUI
 
@@ -30,6 +33,13 @@ the funders will need a way to be rewarded after the project is successful
  twitter and other social media forthe project.
  
 bitcointalk post
+
+
+//more todo
+to create an idea you will need:
+active twitter page  
+website for demo
+and a small eth deposit that will be locked in the contract and sent back to yor account (so we dont have bots making fake ideas )
 
 
 
