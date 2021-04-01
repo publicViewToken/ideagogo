@@ -36,6 +36,8 @@ bitcointalk post
 
 
 //more todo
+
+
 to create an idea you will need:
 active twitter page  
 website for demo
