@@ -20,7 +20,7 @@ the funders will need a way to be rewarded after the project is successful
  
  twitter and other social media forthe project.
  
-
+bitcointalk post
 
 
 
