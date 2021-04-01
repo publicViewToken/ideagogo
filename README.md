@@ -12,7 +12,7 @@ todo list:
 
 moderators will need to decide on the proposed idea.
 
-the funders will need a way to be rewared after the project is successful
+the funders will need a way to be rewarded after the project is successful
  or 
  give dividends to funders. 
  
