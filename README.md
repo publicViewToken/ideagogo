@@ -8,6 +8,16 @@ https://youtu.be/HnfxttKtyUI
 
 Dapp here: https://ideasgogo.herokuapp.com/
 
+todo list:
+
+moderators will need to decide on the proposed idea.
+
+the funders will need a way to be rewared after the project is successful
+ or 
+ give dividends to funders. 
+ 
+ 
+ 
 
 
 
