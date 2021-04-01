@@ -1,4 +1,4 @@
-discord user telsabeam#3168
+discord user teslabeam#3168
 # ideagogo
 fund great ideas on the blockchain. 
 all ideas are a NFT 
