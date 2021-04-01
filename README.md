@@ -16,7 +16,9 @@ the funders will need a way to be rewarded after the project is successful
  or 
  give dividends to funders. 
  
+ UI update
  
+ twitter and other social media forthe project.
  
 
 
