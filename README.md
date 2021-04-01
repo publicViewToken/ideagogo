@@ -21,6 +21,14 @@ the funders will need a way to be rewared after the project is successful
 
 
 
+
+
+
+
+//
+
+
+
 to run react app
 download files 
 npm install
